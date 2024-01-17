@@ -2,7 +2,7 @@
   "greeting": "Hiya",
   "name": "Aira",
   "greetingText": "AKA：邓大哥",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "wishText": "^_^~~~~",
   "imagePath": "img/WechatIMG144.jpg",
   "text1": "今天是你的生日了!!! :D",
   "textInChatBox": "祝老婆生日快乐，永远18岁！！！",
@@ -18,6 +18,6 @@
   "bigTextPart2": "以",
   "wishHeading": "生日快乐！！！！！!",
   "outroText": "您喜欢的话吱一声",
-  "replayText": "或者点击重新播放，嘎嘎嘎嘎嘎嘎，再次祝你32岁生日快乐（虽然声称永远18岁）",
+  "replayText": "或者点击屏幕重新播放，嘎嘎嘎嘎嘎嘎，再次祝你32岁生日快乐（虽然声称永远18岁）",
   "outroSmiley": ":)"
 }
